@@ -22,7 +22,7 @@ Scenario Outline: Verify InValid Submission Validation
 	| Name     | Email                | Subject         | Message                                   |
 	| j.Bloggs | j.Bloggs@qaworks.com | test automation | please contact me I want to find out more |
    
-
+@ignore
 Scenario Outline: Validation after Submission
   Given I am on the QAWorks contacts page
 	When I send the "<Name>" Name "<Email>" Email "<Subject>" Subject "<Message>" Message

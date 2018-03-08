@@ -143,6 +143,43 @@ this.ScenarioSetup(scenarioInfo);
 this.VerifyInValidSubmissionValidation("j.Bloggs", "j.Bloggs@qaworks.com", "test automation", "please contact me I want to find out more", ((string[])(null)));
 #line hidden
         }
+        
+        public virtual void ValidationAfterSubmission(string name, string email, string subject, string message, string[] exampleTags)
+        {
+            string[] @__tags = new string[] {
+                    "ignore"};
+            if ((exampleTags != null))
+            {
+                @__tags = System.Linq.Enumerable.ToArray(System.Linq.Enumerable.Concat(@__tags, exampleTags));
+            }
+            TechTalk.SpecFlow.ScenarioInfo scenarioInfo = new TechTalk.SpecFlow.ScenarioInfo("Validation after Submission", @__tags);
+#line 26
+this.ScenarioSetup(scenarioInfo);
+#line 27
+  testRunner.Given("I am on the QAWorks contacts page", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Given ");
+#line 28
+ testRunner.When(string.Format("I send the \"{0}\" Name \"{1}\" Email \"{2}\" Subject \"{3}\" Message", name, email, subject, message), ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "When ");
+#line 29
+    testRunner.Then("I should be able to contact QAWorks with the following information", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "Then ");
+#line hidden
+            this.ScenarioCleanup();
+        }
+        
+        [Microsoft.VisualStudio.TestTools.UnitTesting.TestMethodAttribute()]
+        [Microsoft.VisualStudio.TestTools.UnitTesting.DescriptionAttribute("Validation after Submission: j.Bloggs")]
+        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("FeatureTitle", "Contact_Us")]
+        [Microsoft.VisualStudio.TestTools.UnitTesting.IgnoreAttribute()]
+        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("VariantName", "j.Bloggs")]
+        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:Name", "j.Bloggs")]
+        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:Email", "j.Bloggs@qaworks.com")]
+        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:Subject", "test automation")]
+        [Microsoft.VisualStudio.TestTools.UnitTesting.TestPropertyAttribute("Parameter:Message", "please contact me I want to find out more")]
+        public virtual void ValidationAfterSubmission_J_Bloggs()
+        {
+#line 26
+this.ValidationAfterSubmission("j.Bloggs", "j.Bloggs@qaworks.com", "test automation", "please contact me I want to find out more", ((string[])(null)));
+#line hidden
+        }
     }
 }
 #pragma warning restore

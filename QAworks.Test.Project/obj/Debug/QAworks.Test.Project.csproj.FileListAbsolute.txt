@@ -20,3 +20,24 @@ C:\Users\shaik\Documents\Visual Studio 2017\Projects\QAworks.Test.Project\QAwork
 C:\Users\shaik\Documents\Visual Studio 2017\Projects\QAworks.Test.Project\QAworks.Test.Project\obj\Debug\QAworks.Test.Project.csproj.CoreCompileInputs.cache
 C:\Users\shaik\Documents\Visual Studio 2017\Projects\QAworks.Test.Project\QAworks.Test.Project\obj\Debug\QAworks.Test.Project.dll
 C:\Users\shaik\Documents\Visual Studio 2017\Projects\QAworks.Test.Project\QAworks.Test.Project\obj\Debug\QAworks.Test.Project.pdb
+C:\Projects\QaTest\qaworks\QAworks.Test.Project\obj\Debug\QAworks.Test.Project.csproj.CoreCompileInputs.cache
+C:\Projects\QaTest\qaworks\QAworks.Test.Project\obj\Debug\QAworks.Test.Project.dll
+C:\Projects\QaTest\qaworks\QAworks.Test.Project\obj\Debug\QAworks.Test.Project.pdb
+C:\Projects\QaTest\qaworks\QAworks.Test.Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\QaTest\qaworks\QAworks.Test.Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\QaTest\qaworks\QAworks.Test.Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\QaTest\qaworks\QAworks.Test.Project\bin\Debug\QAworks.Test.Project.dll.config
+C:\Projects\QaTest\qaworks\QAworks.Test.Project\bin\Debug\QAworks.Test.Project.dll
+C:\Projects\QaTest\qaworks\QAworks.Test.Project\bin\Debug\QAworks.Test.Project.pdb
+C:\Projects\QaTest\qaworks\QAworks.Test.Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Projects\QaTest\qaworks\QAworks.Test.Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Projects\QaTest\qaworks\QAworks.Test.Project\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\QaTest\qaworks\QAworks.Test.Project\bin\Debug\System.ValueTuple.dll
+C:\Projects\QaTest\qaworks\QAworks.Test.Project\bin\Debug\TechTalk.SpecFlow.dll
+C:\Projects\QaTest\qaworks\QAworks.Test.Project\bin\Debug\WebDriver.dll
+C:\Projects\QaTest\qaworks\QAworks.Test.Project\bin\Debug\WebDriver.Support.dll
+C:\Projects\QaTest\qaworks\QAworks.Test.Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Projects\QaTest\qaworks\QAworks.Test.Project\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Projects\QaTest\qaworks\QAworks.Test.Project\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\QaTest\qaworks\QAworks.Test.Project\bin\Debug\WebDriver.xml
+C:\Projects\QaTest\qaworks\QAworks.Test.Project\bin\Debug\WebDriver.Support.xml
